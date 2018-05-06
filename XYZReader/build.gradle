@@ -24,7 +24,7 @@ android {
 }
 
 dependencies {
-    implementation 'com.android.support:design:25.4.0'
+    implementation 'com.android.support:design:25.3.0'
     compile "com.android.support:support-v4:$androidSupportVersion"
     compile "com.android.support:support-v13:$androidSupportVersion"
     compile "com.android.support:appcompat-v7:$androidSupportVersion"
